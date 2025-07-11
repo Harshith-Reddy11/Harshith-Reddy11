@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshith Reddy!
+# 👋 Hi, I'm Harshith Reddy Rajalingari!
 
 **Driven Student | Machine Learning Explorer | Building Smarter Solutions, One Line of Code at a Time**
 
