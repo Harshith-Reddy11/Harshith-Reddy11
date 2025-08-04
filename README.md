@@ -8,7 +8,7 @@
 
 I’m a passionate student with a love for **Machine Learning**, creative problem-solving, and modern web technologies. My journey is all about exploring, experimenting, and empowering ideas through code and curiosity.
 
-- 📚 Currently mastering ML frameworks and deepening my knowledge in data science.
+- 📚 Currently mastering  Machine Learning(ML) frameworks and deepening my knowledge in data science.
 - 💡 Always eager to tackle new challenges and share my discoveries.
 - 🧠 Believer in lifelong learning and collaborative innovation.
 
