@@ -34,7 +34,7 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### [Bhasha-Nyaya](https://github.com/Harshith-Reddy11/bhasha-nyaya)
 A project blending language and technology, showcasing my passion for NLP and machine learning.  
