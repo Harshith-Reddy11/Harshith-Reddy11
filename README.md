@@ -39,6 +39,9 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 ### [Bhasha-Nyaya](https://github.com/Harshith-Reddy11/bhasha-nyaya)
 A project blending language and technology, showcasing my passion for NLP and machine learning.  
 Dive in to see how I approach real-world problems using ML concepts!
+### [College Chatbot](https://github.com/Harshith-Reddy11/College_Chatbot)
+A conversational AI project built with the Google Gemini API and Flask. It demonstrates my ability to rapidly prototype LLM applications and handle natural language queries with high accuracy.
+Dive in to see how I approach building AI-driven solutions!
 
 ---
 
