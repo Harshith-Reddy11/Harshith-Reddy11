@@ -67,5 +67,5 @@ Dive in to see how I approach building AI-driven solutions!
 ---
 
 <!--
-Feel free to reach out or check out my repos for more cool projects!
+Feel free to reach out or check out my repos for more cool projects!!
 -->
