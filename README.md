@@ -22,6 +22,7 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)
 
 **Machine Learning & Data Science**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
