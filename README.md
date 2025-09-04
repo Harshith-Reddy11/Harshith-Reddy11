@@ -16,7 +16,7 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 
 ## 🛠️ Skills & Technologies
 
-**Languages**  
+**💻 Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -24,7 +24,7 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
-**Machine Learning & Data Science**  
+**🤖 Machine Learning & Data Science**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=seaborn&logoColor=white)
