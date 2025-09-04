@@ -33,6 +33,11 @@ I’m a passionate student with a love for **Machine Learning**, creative proble
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
+ **🗄️ Databases**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
 ---
 
 ## 🌟 Featured Projects
