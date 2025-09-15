@@ -11,6 +11,7 @@ I’m a passionate student with a love for **Machine Learning and Artificial Int
 - 📚 Currently mastering  Machine Learning(ML) frameworks and deepening my knowledge in data science.
 - 💡 Always eager to tackle new challenges and share my discoveries.
 - 🧠 Believer in lifelong learning and collaborative innovation.
+- 🚀 Passionate about building end-to-end solutions — from research and prototyping to deployment and scaling.
 
 ---
 
