@@ -62,6 +62,13 @@ A deep learning application for analyzing remote-sensing imagery. Showcases expe
 
 ---
 
+## 🌍 Open Source & Community  
+- 🤝 Contributing to projects like [TorchGeo](https://github.com/microsoft/torchgeo)  
+- 💡 Engaging in GitHub Discussions & collaborative learning  
+  
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshithreddyrajalingari/)
