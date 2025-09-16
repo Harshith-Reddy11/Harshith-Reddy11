@@ -64,7 +64,8 @@ A deep learning application for analyzing remote-sensing imagery. Showcases expe
 
 ## 🌍 Open Source & Community  
 - 🤝 Contributing to projects like [TorchGeo](https://github.com/microsoft/torchgeo)  
-- 💡 Engaging in GitHub Discussions & collaborative learning  
+- 💡 Engaging in GitHub Discussions & collaborative learning
+- 🚀 Passionate about making AI research accessible to everyone
   
 
 ---
